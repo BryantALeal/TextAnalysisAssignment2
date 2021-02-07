@@ -1,5 +1,5 @@
 # TextAnalysisAssignment2
-A repo for code used for completing project 2 in Text Analysis where we were to analyze user sentiment on beer reviews from <a href='https://www.beeradvocate.com/beer/top-rated/'> Beer Advocate's </a> top 250 beers. Specifically, we needed to collect around 25 reviews for each beer in the top 250. This means we had over 6,250 rows of unstructured data in total.  <br><br>
+A repo for code used for completing project 2 in Text Analysis where we were to analyze user sentiment on beer reviews from :beer:<a href='https://www.beeradvocate.com/beer/top-rated/'> Beer Advocate's </a>:beer: top 250 beers. Specifically, we needed to collect around 25 reviews for each beer in the top 250. This means we had over 6,250 rows of unstructured data in total.  <br><br>
 The code is split off into different sections that I will describe in detail below:
 <ol type="a">
   <li>Webscraper</li>
