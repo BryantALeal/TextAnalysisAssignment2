@@ -9,7 +9,9 @@ The code is split off into different sections that I will describe in detail bel
   <br><li>Word Frequency Analysis</li> <br>
   Further data pre-processing is needed to peform analysis on the data. The words need to be rid of certain characters such as dashes and underscores. Once we are sure that the data is purely words, we removed common english stop words such as I, me, my and myself. These words, in terms of frequency, appear often yet provide no value in terms of analysis, so they are removed. After this, we created another function that will put everything together.
   
-  <li>Cosine Similarity</li>
+  <br><li>Cosine Similarity</li><br>
+  The data is now ready to be analyzed by calculating the cosine similarity scores where a review will be 
+  
   <li>Sentiment Analysis</li>
   <li>Evaluation Score</li>
   <li>Spacy Simliarity</li>
